@@ -5,6 +5,7 @@ within a given context
 
 ## FEATURE
 - TOP 10 DESIGN PATTERN
+- Introduction to Design Pattern
 - All assignment with solution
 
 ## Contributing
