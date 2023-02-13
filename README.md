@@ -1,4 +1,4 @@
-# CS25 - ADVANCE SOFTWARE DEVELOPMENT
+# CS525 - ADVANCE SOFTWARE DEVELOPMENT
 
 A pattern is a general, reusable solution to a commonly occurring problem
 within a given context
