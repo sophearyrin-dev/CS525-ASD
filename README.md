@@ -17,6 +17,9 @@ within a given context
 The Observer design pattern lets several observer objects be notified when a subject is changed in some way. 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/W3sDesign_Observer_Design_Pattern_UML.jpg">
 
+Example: Stock Managment System
+<img src="https://github.com/sophearyrin-dev/CS525-ASD/blob/observer/images/Screenshot%20at%20Feb%2024%2008-49-37.png">
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
