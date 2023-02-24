@@ -8,6 +8,11 @@ within a given context
 - Introduction to Design Pattern
 - All assignment with solution
 
+1. Strategy Pattern
+
++ About Iterator
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20211221155606/javaforward-660x324.png">
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
