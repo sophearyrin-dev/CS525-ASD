@@ -1,30 +1,32 @@
 package bank.service;
 
 import java.util.Collection;
-import java.util.Date;
 
 import bank.dao.AccountDAO;
 import bank.dao.IAccountDAO;
-import bank.domain.*;
+import bank.domain.Account;
+import bank.domain.Customer;
+import bank.domain.HighInterestStrategy;
+import bank.domain.LowInterestStrategy;
 
 
 public class AccountService implements IAccountService {
 	private IAccountDAO accountDAO;
 
-
+	
 	public AccountService(){
 		accountDAO=new AccountDAO();
 	}
 
+	@Override
 	public Account createAccount(String accountType, long accountNumber, String customerName) {
 		Account account = new Account(accountNumber);
-		account.setAccountType(accountType);
 		Customer customer = new Customer(customerName);
 		account.setCustomer(customer);
-		if (accountType.equals("checking")) {
-			account.setInterestStrategy(new InterestStrategyLow());
-		} else if (accountType.equals("saving")) {
-			account.setInterestStrategy(new InterestStrategyHigh());
+		if(accountType.equals("checking")){
+			account.setInterestStrategy(new LowInterestStrategy());
+		}else if(accountType.equals("saving")){
+			account.setInterestStrategy(new HighInterestStrategy());
 		}
 		accountDAO.saveAccount(account);
 		return account;
@@ -61,9 +63,10 @@ public class AccountService implements IAccountService {
 		accountDAO.updateAccount(toAccount);
 	}
 
+	@Override
 	public void addInterest(){
 		Collection<Account> accounts = accountDAO.getAccounts();
-		for (Account account: accounts){
+		for(Account account : accounts){
 			account.addInterest();
 			accountDAO.updateAccount(account);
 		}

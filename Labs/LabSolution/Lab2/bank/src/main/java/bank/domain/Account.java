@@ -7,8 +7,8 @@ public class Account {
 	long accountnumber;
 	Collection<AccountEntry> entryList = new ArrayList<AccountEntry>();
 	Customer customer;
-	private InterestStrategy interestStrategy;
 	private String accountType;
+	private AddInterestStrategy interestStrategy;
 
 	
 	public Account (long accountnr){
@@ -57,22 +57,17 @@ public class Account {
 	public Collection<AccountEntry> getEntryList() {
 		return entryList;
 	}
-	public String getAccountType() {
-		return accountType;
-	}
-	public void setAccountType(String accountType) {
-		this.accountType = accountType;
-	}
-	public void setInterestStrategy(InterestStrategy interestStrategy) {
+
+	public void setInterestStrategy(AddInterestStrategy interestStrategy){
 		this.interestStrategy = interestStrategy;
 	}
-
 	public void addInterest(){
-		System.out.println("AddInterest on "+accountType+" account with account number "+accountnumber);
-		System.out.println("Old balance = "+getBalance());
-		double interest =interestStrategy.computeInterest(getBalance());
-		AccountEntry entry = new AccountEntry(new Date(), interest, "interest", "", "");
+		System.out.println("Add Interest on " + accountType + " account with acount number " + accountnumber);
+		System.out.println("Old Balance " + getBalance());
+		double interest = interestStrategy.computeInterest(getBalance());
+		AccountEntry entry = new AccountEntry(new Date(), interest, "interest","","");
 		entryList.add(entry);
-		System.out.println("New balance = "+getBalance());
+		System.out.println("New Balance = " + getBalance());
 	}
+
 }
