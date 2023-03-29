@@ -8,6 +8,9 @@ within a given context
 - Introduction to Design Pattern
 - All assignment with solution
 
+## Class diagram
+<img src="https://d3n817fwly711g.cloudfront.net/uploads/2018/08/Class-Diagram-Relationships.png">
+
 1. Strategy Pattern
 
 + About Iterator
