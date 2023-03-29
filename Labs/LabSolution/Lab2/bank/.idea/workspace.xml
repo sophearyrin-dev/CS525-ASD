@@ -6,25 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="310fcce6-2679-4d05-89bf-f89c10b705dd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1-diagram.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1-diagram.mdj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/domain/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/domain/InterestStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/domain/InterestStrategyHigh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/domain/InterestStrategyLow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/service/AccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank/service/IAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/service/IAccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bank/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bank/dao/AccountDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/dao/AccountDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bank/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/domain/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bank/domain/AccountEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/domain/AccountEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bank/domain/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/domain/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bank/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/service/AccountService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bank/service/IAccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bank/service/IAccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +82,7 @@
       <updated>1679880013034</updated>
       <workItem from="1679880015288" duration="7563000" />
       <workItem from="1679967593463" duration="561000" />
-      <workItem from="1679970680167" duration="3418000" />
+      <workItem from="1679970680167" duration="4980000" />
     </task>
     <servers />
   </component>

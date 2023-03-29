@@ -13,6 +13,9 @@ within a given context
 + About Iterator
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20211221155606/javaforward-660x324.png">
 
++ Strategy Pattern
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/classss.jpg">
+
 3. Observer Pattern
 The Observer design pattern lets several observer objects be notified when a subject is changed in some way. 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/W3sDesign_Observer_Design_Pattern_UML.jpg">
