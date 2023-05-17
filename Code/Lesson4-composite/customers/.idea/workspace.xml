@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e668693-de74-41e4-9cdc-bfff3c526932" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proxypattern/ExpensiveObjectProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proxypattern/ExpensiveObjectProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab1/Lab1-diagram.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab1/Lab1-diagram.mdj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/css/output.min.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1209.js" beforeDir="false" />
@@ -212,6 +213,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/customers" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -261,7 +263,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677718056964</updated>
       <workItem from="1677718058295" duration="834000" />
-      <workItem from="1684286152097" duration="525000" />
+      <workItem from="1684286152097" duration="1274000" />
     </task>
     <servers />
   </component>
