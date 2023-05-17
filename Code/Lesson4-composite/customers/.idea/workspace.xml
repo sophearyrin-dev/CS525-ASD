@@ -4,7 +4,177 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e668693-de74-41e4-9cdc-bfff3c526932" name="Changes" comment="" />
+    <list default="true" id="2e668693-de74-41e4-9cdc-bfff3c526932" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab1/Lab1-diagram.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab1/Lab1-diagram.mdj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/css/output.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1209.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1526.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1527.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1528.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1530.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1531.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1532.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1536.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1537.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1538.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1540.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1541.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/1542.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/frame.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/data/js/paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/lib/scripts/app.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/lib/stylesheets/main.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/meta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/5eJ7JXMMqlT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/61RCZOtKzQ4_DX1024_DY1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp10_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp11_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp12_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp13_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp14_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp27_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp28_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp29_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp30_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp31_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp32_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp33_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp34_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp35_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp36_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp37_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp8_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_d5Zh7aodwqPZcl2TitleandContentshp9_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1209shp3_DX692_DY692_CX488_CY165.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1526shp16_DX1448_DY1448_CX1080_CY176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1526shp17_DX960_DY960_CX480_CY270.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1526shp24_DX696_DY696_CX464_CY155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1526shp25_DX352_DY352_CX235_CY213.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1527shp16_DX1448_DY1448_CX1080_CY176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1527shp17_DX960_DY960_CX480_CY270.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1527shp25_DX352_DY352_CX235_CY213.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1527shp2_DX1316_DY1316_CX878_CY175.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1530shp8_DX692_DY692_CX519_CY313.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1530shp9_DX1174_DY1174_CX880_CY404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1537shp6_DX1160_DY1160_CX870_CY255.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/6k3MGEtu0It_sl1537shp7_DX1136_DY1136_CX852_CY308.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/Slide6k3MGEtu0It_d5Zh7aodwqPZsm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/Slide6k3MGEtu0It_sl1526.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/Slide6k3MGEtu0It_sl1527.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/video_0c6468cb-b36b-4f92-ab6c-1279f1dd9a76_0_160_1252x832.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/video_3e9b43c6-757d-46ff-a43c-46fee2becf09_0_160_1252x684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/video_52630822-66d7-4b46-b308-e2f195da70fc_0_160_1252x684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/video_e558e09e-28b5-41f5-b18e-820fea016d86_0_160_1252x684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/video_fa2f222e-32d2-4063-8fa3-51028b61ec81_0_160_1252x684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/mobile/video_ff21afcb-3694-4ca2-9b05-9515757a015b_0_160_1252x736.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/3792329765410d31f4d468f37e373b_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/43e504b4e55975840ee0689982869f_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/466ab7a43aba1834131eff4158f843_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/64431db14c1d4da04ade71cf2705de_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/8f5e7b9445147a9582d2a4a3748d0b_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/bank coding.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/bank sequence diagram.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/code visa.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/da00e750d519e0495807ea57d74153_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/drawing.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/frame.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/frame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/presentation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/video_e558e09e-28b5-41f5-b18e-820fea016d86_0_160_1252x684.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/presentation_content/visa sequence diagram.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab2/videoexplaination/Lab 2 explanation/start presentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/css/output.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1526.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1527.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1530.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1531.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1532.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1533.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1534.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1535.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1536.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/1537.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/frame.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/data/js/paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/lib/scripts/app.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/lib/stylesheets/main.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/meta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/5YWuTqzIm0i_DX1024_DY1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/5eJUsZ7yiRl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp10_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp11_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp12_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp13_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp14_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp27_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp28_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp29_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp30_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp31_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp32_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp33_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp34_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp35_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp36_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp37_DX74_DY74_CX52_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp8_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_d5Zh7aodwqPZcl2TitleandContentshp9_DX74_DY74_CX53_CY6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1526shp16_DX1448_DY1448_CX1080_CY176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1526shp17_DX960_DY960_CX480_CY270.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1526shp24_DX696_DY696_CX464_CY155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1526shp25_DX352_DY352_CX235_CY213.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1527shp16_DX1448_DY1448_CX1080_CY176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1527shp17_DX960_DY960_CX480_CY270.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1527shp25_DX352_DY352_CX235_CY213.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1527shp2_DX1316_DY1316_CX878_CY175.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1530shp8_DX692_DY692_CX519_CY313.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1530shp9_DX1174_DY1174_CX880_CY404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1534shp17_DX1010_DY1010_CX729_CY380.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1534shp20_DX908_DY908_CX680_CY351.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1534shp21_DX204_DY204_CX153_CY102.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1534shp22_DX204_DY204_CX153_CY102.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1534shp23_DX204_DY204_CX153_CY102.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/6DiznmO0bzY_sl1534shp24_DX244_DY244_CX183_CY104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/Slide6DiznmO0bzY_d5Zh7aodwqPZsm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/Slide6DiznmO0bzY_sl1526.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/Slide6DiznmO0bzY_sl1527.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/video_33002ae7-7377-417d-914d-f71484a50e70_0_160_1306x700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/video_5bef2514-5239-4254-a7f6-c8cbece04af2_0_160_1606x836.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/video_902ef2ee-5e20-43eb-9723-7223ffe1421e_0_160_1306x700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/video_a2886cd9-67fa-40e6-88a8-cd30631a43a1_0_160_1422x588.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/video_c565c0e9-7236-4723-be64-ceaeb51ccdf8_0_160_1306x700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/mobile/video_c6b6ba0c-83f5-434e-8c95-d1bef1dc3f9d_0_160_1306x700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/466ab7a43aba1834131eff4158f843_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/61e30b8fa46bcf31f02939977dc6e5_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/8c54c0d5e9519ebdabec77408c5790_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/Bank Code.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/conter implementation.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/count class diagram.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/count sequence diagram.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/da00e750d519e0495807ea57d74153_22050_160_1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/frame.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/frame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/presentation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/video_33002ae7-7377-417d-914d-f71484a50e70_0_160_1306x700.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/presentation_content/video_c6b6ba0c-83f5-434e-8c95-d1bef1dc3f9d_0_160_1306x700.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab3/Lab 3 - explanation/start presentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Labs/LabSolution/Lab4/Lab 4 - Explanation.zip" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +183,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,7 +218,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/customers" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="customers.Application" />
       <module name="customers" />
@@ -61,8 +232,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxypattern.Main" />
+      <module name="customers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
@@ -76,6 +261,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677718056964</updated>
       <workItem from="1677718058295" duration="834000" />
+      <workItem from="1684286152097" duration="525000" />
     </task>
     <servers />
   </component>
